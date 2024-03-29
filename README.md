@@ -16,7 +16,6 @@ Hola! Mi nombre es Sam, encantado de que estes aqui!
 [![](https://visitcount.itsvg.in/api?id=0x73616D&icon=2&color=12)](https://visitcount.itsvg.in)
 
   ## 💰 Podes hacer una donacion aca:
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://cafecito.app/0x73616d) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/0x73616D) 
+  [![Cafecito (ARG)](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://cafecito.app/0x73616d) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/0x73616D) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
