@@ -1,5 +1,14 @@
+###
+
+<div align="center">
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/717764929113030756) 
-[![](https://visitcount.itsvg.in/api?id=0x73616D&icon=2&color=12)](https://visitcount.itsvg.in)
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
 # Sobre mi:
 Hola! Mi nombre es Benja, encantado de que estes aqui!
