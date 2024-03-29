@@ -3,8 +3,6 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![GitHub followers](https://img.shields.io/github/followers/0x73616D?label=Follow&style=social)](https://github.com/0x73616D)
-
 # <img src="https://cdn3.emoji.gg/emojis/7011-active-developer-badge.png" width="25"> Sobre mi:
 
 ```cpp
