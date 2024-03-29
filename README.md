@@ -1,8 +1,7 @@
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=0x73616D&icon=2&color=12)](https://visitcount.itsvg.in)
-  
-![GitHub followers](https://img.shields.io/github/followers/0x73616D?label=Follow&style=social)
+[![](https://visitcount.itsvg.in/api?id=0x73616D&icon=2&color=black)](https://visitcount.itsvg.in)
+![GitHub followers](https://img.shields.io/github/followers/0x73616D?label=Follow&style=social&color=black)
 
 </div>
 
