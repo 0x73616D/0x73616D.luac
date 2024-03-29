@@ -1,11 +1,11 @@
-<h2><img src="https://cdn3.emoji.gg/emojis/4060-bughunter-yellow.png" width="30"> ¡Hola! ¡Es un placer para mi que estés viendo mis trabajos!</h2>
+<h2><img src="https://cdn3.emoji.gg/emojis/4060-bughunter-yellow.png" width="25"> ¡Hola! ¡Es un placer para mi que estés viendo mis trabajos!</h2>
 <p><em>Desarollador de software para SA-MP
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![GitHub followers](https://img.shields.io/github/followers/0x73616D?label=Follow&style=social)](https://github.com/0x73616D)
 
-# <img src="https://cdn3.emoji.gg/emojis/7011-active-developer-badge.png" width="30"> Sobre mi:
+# <img src="https://cdn3.emoji.gg/emojis/7011-active-developer-badge.png" width="25"> Sobre mi:
 
 ```cpp
 class 0x73616D
