@@ -1,4 +1,4 @@
-<h2>¡Hola! ¡Es un placer que estés viendo mis trabajos!</h2>
+<h2>¡Hola! ¡Es un placer para mi que estés viendo mis trabajos!</h2>
 <p><em>Desarollador de software para SA-MP
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
