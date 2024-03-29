@@ -4,6 +4,8 @@
 </em></p>
 
 [![GitHub followers](https://img.shields.io/github/followers/0x73616D?label=Follow&style=social)](https://github.com/0x73616D)
+![Sobre mi](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Discord_Active_Developer_Badge.svg/240px-Discord_Active_Developer_Badge.svg.png)
+
 # Sobre mi:
 
 ```cpp
