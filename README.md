@@ -1,6 +1,8 @@
-
 <div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=0x73616D&icon=2&color=white)](https://visitcount.itsvg.in)
 [![GitHub followers](https://img.shields.io/github/followers/0x73616D?label=Follow&style=social)](https://github.com/0x73616D)
+
 </div>
 
 # Sobre mi:
