@@ -17,6 +17,6 @@ public:
 };
 ```
 
-  ## 💰 Podes realizar una donacion por mis trabajos desde Paypal o Cafecito (<img src="https://w7.pngwing.com/pngs/509/1019/png-transparent-argentina-national-football-team-flag-of-argentina-flag-miscellaneous-flag-logo-thumbnail.png" width="25">) :)
+  ## 💰 Podes realizar una donacion por mis trabajos desde Paypal o Cafecito (<img src="https://img.freepik.com/vector-gratis/ilustracion-bandera-argentina_53876-27120.jpg?w=826&t=st=1711703116~exp=1711703716~hmac=dd23219651bfa6b9dc187a34da6bf0804ca9b5e21e83c3becccd5a4c0df5776d" width="20">) :)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/0x73616D)
 [![Cafecito (ARG)](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://cafecito.app/0x73616d)
