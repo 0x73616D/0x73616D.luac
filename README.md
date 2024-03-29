@@ -1,12 +1,15 @@
 <div align="center">
+  
 [![](https://visitcount.itsvg.in/api?id=0x73616D&icon=2&color=12)](https://visitcount.itsvg.in)
+  
 ![GitHub followers](https://img.shields.io/github/followers/0x73616D?label=Follow&style=social)
+
 </div>
 
 # Sobre mi:
 
 ```cpp
-class 0x73616D.luac
+class 0x73616D
 {
 private:
    const char* discord = "https://discord.com/users/717764929113030756";
