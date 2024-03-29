@@ -1,7 +1,6 @@
 
 <div align="center">
-![GitHub followers](https://img.shields.io/github/followers/0x73616D?label=Follow&style=social&color=black)
-
+![GitHub followers](https://img.shields.io/github/followers/0x73616D?label=Follow&style=social)
 </div>
 
 # Sobre mi:
