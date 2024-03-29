@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hola, ¡Es un placer que estés viendo mis trabajos!</h2>
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p><em>Scripter de SAMP</em></p>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><p><em>Scripter de SAMP</em></p>
+
 
 [![GitHub followers](https://img.shields.io/github/followers/0x73616D?label=Follow&style=social)](https://github.com/0x73616D)
 # Sobre mi:
