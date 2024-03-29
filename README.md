@@ -20,4 +20,4 @@ Soy un scripter independiente y realizo scripts para SA-MP.
 
 
   ## 💰 Podes hacer una donacion aca:
-  [![Cafecito (ARG)](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://cafecito.app/0x73616d) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/0x73616D) 
+  [![Cafecito (ARG)](https://pbs.twimg.com/profile_images/1286362515404992514/YnFYebw1_400x400.jpg)](https://cafecito.app/0x73616d) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/0x73616D) 
