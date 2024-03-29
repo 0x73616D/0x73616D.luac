@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+[![](https://visitcount.itsvg.in/api?id=0x73616D&icon=2&color=12)](https://visitcount.itsvg.in)
 </div>
 
 # Sobre mi:
