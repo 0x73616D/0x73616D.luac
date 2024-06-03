@@ -9,7 +9,7 @@
 class 0x73616D
 {
 private:
-   const char* discord = "https://discord.com/users/717764929113030756";
+   const char* discord = "https://discord.com/users/1246311073204670540";
    const char* github = "https://github.com/0x73616D";
 public:
     const char* NickName = "Benja";  
